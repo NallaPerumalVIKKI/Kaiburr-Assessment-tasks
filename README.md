@@ -120,6 +120,22 @@ Task 4
 ![image](https://user-images.githubusercontent.com/87609938/235308976-612229cd-3b23-4ba6-ae23-a10d463acbde.png)
 
 
+
+
+
+
+
+
+Task 5. CI-CD pipeline:
+I used Jenkins to build and publish docker image into the registry. I downloaded all the necessary plugins in Jenkins to configure the docker build. The configurations were setup correctly in Jenkins and the code is cloned from this github repository. The application building part was successful while the docker image build was a failure.
+
+![image](https://user-images.githubusercontent.com/87609938/235309650-bd441142-4bd1-41a1-9c38-96714d0c2e51.png)
+
+
+
+
+
+
 Task 6
 
 
