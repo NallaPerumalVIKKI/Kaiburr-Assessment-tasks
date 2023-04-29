@@ -15,15 +15,20 @@ Task 1. Java REST API
 Task 2. Swagger codegen
 Task 3. Docker compose
 Task 4. WEB UI Forms
+Task 5 CI/CD pipeline
+Task 6 Consumer complaint database
  
  High-level Directory Overview
 Nalla Perumal M
 ├───Kaiburr
 ├───screenshots //Tasks I/O Screenshots and GIF
 ├───spring-server-generated //Task 2 Source Code and Documentation
-├───task1 //Task 1 Source Code and Documentation
-├───task3 //Task 3 Source Code and Documentation
-├───task4 //Task 4 Source Code and Documentation
+├───task1 //Task 1 
+ ----task2
+├───task3 
+├───task4
+ ---task5
+ ---task6
 └───README.md //Brief Documentation
 
 NOTE: Task Building and Deployment steps along with screenshots are Documented inside respective folders
