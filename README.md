@@ -51,23 +51,72 @@ Docker
 *Production Deployment
 AWS EC2
 Task 1
-GOTO: Task 1 Source Code and Documentation
 
-GetAllServ
+
+
+![image](https://user-images.githubusercontent.com/87609938/235308844-84cc0ca4-f942-4617-a169-efbff29c8dba.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Task 2
-GOTO: Task 2 Source Code and Documentation
 
-SwaggerUi
+
+
+
+
+![image](https://user-images.githubusercontent.com/87609938/235308857-9a38fb82-a486-444f-bbf1-5f40a6f6dbb5.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Task 3
-GOTO: Task 3 Source Code and Documentation
 
-DockerContainer
+
+
+
+
+![image](https://user-images.githubusercontent.com/87609938/235308870-229e6fc5-570d-4050-9a9b-e5fefaf5715e.png)
+
+
+
+
+
+
+
+
+
+
+
 
 Task 4
-GOTO: Task 4 Source Code and Documentation
 
-WebUiForms
 
-*Task 5 Extra Miles
+
+
+
+
+![image](https://user-images.githubusercontent.com/87609938/235308890-9e0b7410-4a6d-4168-9b9e-4aca87489136.png)
+
