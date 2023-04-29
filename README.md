@@ -1,18 +1,22 @@
 # Kaiburr-Assessment-tasks
 
 Local Build Demo
+
+
+
 ![image](https://user-images.githubusercontent.com/87609938/235308687-8032bfbd-4883-4792-8cab-5e16ab292915.png)
 
 
 Kaiburr Web Ui Form
 
 Tasks Completed
- Task 1. Java REST API
- Task 2. Swagger codegen
- Task 3. Docker compose
- Task 4. WEB UI Forms
-High-level Directory Overview
-imbipulkumar
+Task 1. Java REST API
+Task 2. Swagger codegen
+Task 3. Docker compose
+Task 4. WEB UI Forms
+ 
+ High-level Directory Overview
+Nalla Perumal M
 ├───Kaiburr
 ├───screenshots //Tasks I/O Screenshots and GIF
 ├───spring-server-generated //Task 2 Source Code and Documentation
@@ -24,7 +28,14 @@ imbipulkumar
 NOTE: Task Building and Deployment steps along with screenshots are Documented inside respective folders
 
 Application Architecture (3 Tier)
-Application Architecture
+
+
+![image](https://user-images.githubusercontent.com/87609938/235308769-6804eac1-133a-4bce-a9e5-4bcd8a7d61b8.png)
+
+
+
+
+
 
 Tech Stack
 Frontend
