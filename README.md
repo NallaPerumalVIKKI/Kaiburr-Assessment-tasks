@@ -120,3 +120,11 @@ Task 4
 ![image](https://user-images.githubusercontent.com/87609938/235308976-612229cd-3b23-4ba6-ae23-a10d463acbde.png)
 
 
+Task 6
+
+
+
+![image](https://user-images.githubusercontent.com/87609938/235309435-7e9ccec9-9d83-42fd-9c26-d957a56e3e8c.png)
+
+
+
