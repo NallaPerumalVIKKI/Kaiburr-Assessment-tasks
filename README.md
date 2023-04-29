@@ -4,7 +4,8 @@ Local Build Demo
 
 
 
-![image](https://user-images.githubusercontent.com/87609938/235308687-8032bfbd-4883-4792-8cab-5e16ab292915.png)
+![image](https://user-images.githubusercontent.com/87609938/235309018-b4fc6c78-02f4-4309-a788-ddce2d60cc4d.png)
+
 
 
 Kaiburr Web Ui Form
